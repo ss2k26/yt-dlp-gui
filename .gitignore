@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# App runtime data (downloaded tools and per-user state)
+bin/
+settings.json
+state.json
+
+# Logs, downloads, release archives
+*.log
+Downloads/
+*.zip
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
